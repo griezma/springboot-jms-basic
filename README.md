@@ -1,1 +1,1 @@
-# Minimal Spring Boot JMS sample
+# Minimal Spring Boot JMS setup
